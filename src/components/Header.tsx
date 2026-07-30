@@ -7,6 +7,7 @@ import { PLAY_STORE_URL, APP_NAME } from "@/lib/constants";
 
 const navLinks = [
   { label: "Features", href: "/#features" },
+  { label: "Pricing", href: "/#pricing" },
   { label: "About", href: "/#about" },
   { label: "Download", href: "/#download" },
   { label: "Privacy Policy", href: "/privacy-policy" },
