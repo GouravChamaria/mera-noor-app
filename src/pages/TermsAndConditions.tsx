@@ -23,8 +23,30 @@ Address: ${COMPANY_DETAILS.fullAddress}`,
     body: `${APP_NAME} is an Islamic spiritual application available on Android devices. The app offers a curated collection of Islamic devotional ringtones, HD wallpapers, alarms, naats, and duas. Users can preview, download, and set these assets on their devices, and share them to platforms including WhatsApp.`,
   },
   {
-    heading: "USER ACCOUNTS AND SUBSCRIPTIONS",
+    heading: "USER ACCOUNTS",
     body: `To access premium features, users sign in via Google authentication. ${APP_NAME} offers trial options and subscription plans. Subscriptions renew automatically until cancelled by the user.`,
+  },
+  {
+    heading: "SUBSCRIPTIONS AND PAYMENTS",
+    body: `${APP_NAME} offers a 3-day trial period for ₹3 followed by a recurring monthly subscription plan at ₹249/month, the details of which are displayed within the app at the time of purchase. All pricing is in Indian Rupees (INR) and is inclusive of applicable taxes.
+
+The trial period, trial features, duration, and limitations are variable and subject to change at any time without prior notice. Both trial and paid versions may include usage restrictions such as feature caps or access limitations, which may be modified at our sole discretion.
+
+By subscribing, you authorise us (through our payment gateway partner) to charge your selected payment method on a recurring basis until you cancel. Your subscription renews automatically at the end of each billing cycle unless you cancel before the renewal date.
+
+If you cancel a paid subscription, you retain access to premium features until the end of the current paid billing cycle. If you cancel during a trial, your access to premium features ends immediately upon cancellation.
+
+We reserve the right to modify subscription pricing and plans with reasonable advance notice provided within the app. Continued usage after such changes constitutes acceptance of the revised pricing and terms.`,
+  },
+  {
+    heading: "REFUND POLICY",
+    body: `All services and subscriptions offered on ${APP_NAME} are non-refundable under any circumstances. Once a payment is made, it cannot be reversed, refunded, or cancelled, regardless of usage or dissatisfaction.
+
+If you do not wish to be charged after a trial period, you must cancel your subscription before the trial period ends. Once the trial period converts into a paid subscription, no refunds — partial or full — will be issued, even if you are unable to use the app for any reason.
+
+In the event of termination of your account for violations of these Terms, no refund will be issued for any remaining subscription period.
+
+If you are experiencing technical difficulties, we encourage you to contact our support team at <a href="mailto:${COMPANY_DETAILS.email}" class="text-primary underline underline-offset-2">${COMPANY_DETAILS.email}</a>, but contacting support does not make you eligible for a refund.`,
   },
   {
     heading: "PERMITTED USE OF CONTENT",
