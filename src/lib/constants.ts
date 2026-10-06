@@ -8,9 +8,9 @@ export const COMPANY_DETAILS = {
   addressLine2: "Next to Sapna Book House, 7th Sector, HSR Layout",
   cityStatePincode: "Bengaluru- 560102, Karnataka, India",
   fullAddress: "2nd Floor, 1187, Bhagwati, 5th Main Road, 21st Cross Road, Next to Sapna Book House, 7th Sector, HSR Layout, Bengaluru- 560102, Karnataka, India",
-  phone: "+91-9164994944",
-  phoneFormatted: "+91 91649 94944",
-  phoneRaw: "+919164994944",
+  phone: "+91-9164984848",
+  phoneFormatted: "+91 91649 84848",
+  phoneRaw: "+919164984848",
   gstin: "29AADCZ0765B1ZC",
   email: "support@zarvonis.com",
 };
